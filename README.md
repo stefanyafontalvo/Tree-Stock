@@ -49,8 +49,7 @@ La recursividad es la técnica mediante la cual un método se llama a sí mismo 
 ![Mostrar Inventario](CAPTURAS/CAPTURA%203%20INVENTARIO.png)
 
 ### Búsqueda de Producto
-![Búsqueda de Producto](CAPTURAS/CAPTURA%204%20BUSQUEDA.png)git add .
-git commit -m "Corregir rutas de imagenes en README"
+![Búsqueda de Producto](CAPTURAS/CAPTURA%204%20BUSQUEDA.png)
 
 ---
 
