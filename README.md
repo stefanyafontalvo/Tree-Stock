@@ -32,6 +32,27 @@ La recursividad es la técnica mediante la cual un método se llama a sí mismo 
 ## 4. Instrucciones de Compilación y Ejecución
 
 1. Abrir la terminal en la carpeta raíz del proyecto.
-2. Compilar todas las clases del proyecto:
-   ```bash
-   javac *.java
+2. Compilar todas las clases del proyecto ejecutando: `javac *.java`
+3. Ejecutar el programa ejecutando: `java Main`
+
+---
+
+## 5. Enlaces a las 4 Capturas de Pantalla
+
+### Menú Principal
+![Menú Principal](CAPTURAS/CAPTURA%201%20MENU.png)
+
+### Registro de Producto
+![Registro de Producto](CAPTURAS/CAPTURA%202%20REGISTRO.png)
+
+### Mostrar Inventario (Recorrido Inorden)
+![Mostrar Inventario](CAPTURAS/CAPTURA%203%20INVENTARIO.png)
+
+### Búsqueda de Producto
+![Búsqueda de Producto](CAPTURAS/CAPTURA%204%20BUSQUEDA.png)
+
+---
+
+## 6. Enlace para el Video de Sustentación
+
+[Ver video de sustentación en YouTube/Drive](PEGA_AQUI_EL_ENLACE_DE_TU_VIDEO)
